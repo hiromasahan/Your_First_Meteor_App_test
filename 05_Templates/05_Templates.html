@@ -1,0 +1,19 @@
+<head>
+  <title>05_Templates</title>
+</head>
+
+<body>
+  <h1>Leaderboard</h1>
+
+  {{> leaderboard}}
+</body>
+
+<template name="leaderboard">
+  {{player}}
+  <ul>
+      {{#each player}}
+          <li>{{name}}:{{score}}</li>
+      {{/each}}
+  </ul>
+  var player = ['David','Bob','Bill','Mary','Warren','Tim'];
+</template>
