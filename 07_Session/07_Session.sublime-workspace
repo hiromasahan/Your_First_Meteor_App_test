@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"players"
+			],
+			[
+				"c",
+				"Collection"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"get",
+				"getTweets"
+			],
+			[
+				"sea",
+				"searchTeam"
+			],
+			[
+				"twee",
+				"tweetList"
+			],
+			[
+				"it",
+				"Items"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"CRE",
+				"creatingAccount"
+			],
+			[
+				"S",
+				"set"
+			],
+			[
+				"cr",
+				"createAccount"
+			],
+			[
+				"t",
+				"Template"
+			],
+			[
+				"SE",
+				"set"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"Session"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/SarahHan/Your_First_Meteor_App_test/06_Event/06_Event.js",
+		"/Users/SarahHan/Your_First_Meteor_App_test/06_Event/06_Event.html",
+		"/Users/SarahHan/Your_First_Meteor_App_test/05_Templates/05_Templates.html",
+		"/Users/SarahHan/Your_First_Meteor_App_test/05_Templates/05_Templates.js",
+		"/Users/SarahHan/Your_First_Meteor_App_test/04_databasePr01/04_databasePr01.html",
+		"/Users/SarahHan/Your_First_Meteor_App_test/04_databasePr01/04_databasePr01.js",
+		"/Users/SarahHan/Meteor/lesson04databasePart1-Playlest/lesson04databasePart1-Playlest.html",
+		"/Users/SarahHan/Meteor/lesson04databasePart1-Playlest/lesson04databasePart1-Playlest.js",
+		"/Users/SarahHan/Your_First_Meteor_App_test/03_ServerVSClient/03_ServerVSClient.js",
+		"/Users/SarahHan/Your_First_Meteor_App_test/03_ServerVSClient/03_ServerVSClient.html",
+		"/Users/SarahHan/Meteor/lesson07Sessions/lesson07Sessions.html",
+		"/Users/SarahHan/Meteor/lesson07Sessions/lesson07Sessions.js",
+		"/Users/SarahHan/Meteor/lesson05templates/lesson05templates.html",
+		"/Users/SarahHan/Meteor/lesson05templates/lesson05templates.js",
+		"/Users/SarahHan/projects/YourFirstMeteorAppCH/Chapter01 Introduction",
+		"/Users/SarahHan/projects/SAMTUTr/lesson09/lesson09.html",
+		"/Users/SarahHan/projects/SAMTUTr/lesson09/lesson09.js",
+		"/Users/SarahHan/projects/SAMTUTr/lesson08/lesson08.js",
+		"/Users/SarahHan/projects/SAMTUTr/lesson08/lesson08.html",
+		"/Users/SarahHan/projects/SAMTUTr/Lesson01/Lesson01.html",
+		"/Users/SarahHan/projects/SAMTUTr/Lesson01/Lesson01.js",
+		"/Users/SarahHan/projects/SAMTUTr/lesson07/lesson07.js",
+		"/Users/SarahHan/projects/SAMTUTr/lesson07/lesson07.html",
+		"/Users/SarahHan/projects/SAMTUTr/lesson03/lesson03.js",
+		"/Users/SarahHan/projects/SAMTUTr/Lesson02/Lesson02.js",
+		"/Users/SarahHan/projects/SAMTUTr/Lesson02/Lesson02.html",
+		"/Users/SarahHan/projects/SAMTUTr/lesson03/lesson03.html",
+		"/Users/SarahHan/projects/SAMTUTr/Lesson01/Lesson01.css",
+		"/Users/SarahHan/projects/SAMTUTr/lesson17/main.coffee",
+		"/Users/SarahHan/projects/SAMTUTr/lesson17/index.html",
+		"/Users/SarahHan/projects/SAMTUTr/lesson16/lesson16.coffee",
+		"/Users/SarahHan/projects/SAMTUTr/lesson14/lesson14.html",
+		"/Users/SarahHan/projects/SAMTUTr/lesson14/lesson14.js",
+		"/Users/SarahHan/projects/SAMTUTr/lesson13/lesson13.js",
+		"/Users/SarahHan/projects/SAMTUTr/lesson13/lesson13.html",
+		"/Users/SarahHan/projects/SAMTUTr/lesson12/lesson12.js",
+		"/Users/SarahHan/projects/SAMTUTr/lesson12/lesson12.html",
+		"/Users/SarahHan/projects/SAMTUTr/lesson11/lesson11.html",
+		"/Users/SarahHan/projects/SAMTUTr/lesson11/lesson11.js",
+		"/Users/SarahHan/projects/SAMTUTr/lesson10/lesson10.js",
+		"/Users/SarahHan/projects/SAMTUTr/lesson10/lesson10.html",
+		"/Users/SarahHan/projects/SAMTUTr/accounts/accounts.js",
+		"/Users/SarahHan/projects/SAMTUTr/accounts/accounts.html",
+		"/Users/SarahHan/Desktop/PeopleList/PeopleList.js",
+		"/Users/SarahHan/Desktop/PeopleList/PeopleList.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"World"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "07_Session.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
