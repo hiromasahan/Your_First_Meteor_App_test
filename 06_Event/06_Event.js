@@ -13,4 +13,9 @@ if (Meteor.isClient) {
       console.log("You clicked something");
     }
   });
+  Template.leaderboard.eventts({
+    'click li':function(){
+      console.log("You clicked a list item");
+    }
+  });
 }
