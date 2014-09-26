@@ -5,6 +5,7 @@
 <body>
   <h1>Leaderboard</h1>
   {{>leaderboard}}
+  {{>addPlayerForm}}
 </body>
 
 
@@ -13,5 +14,18 @@
    {{#each player}}
        <li class="player {{selectedClass}}">{{name}} : {{score}}</li>
    {{/each}}
+   <input type = "button" id ="increment" value="Give 5 Points"/>
+   <input type = "button" id ="decrement" value="Take 5 Points"/>
+   <input type = "button" id ="remove"  value="Remove Player"/>
+   {{#if showSelectedPlayer}}
+       Selected Player:{{showSelectedPlayer.name}} 
+   {{/if}}
 </ul>
+</template>
+
+<template name="addPlayerForm">
+  <form>
+    <input type="text" id = "playerName">
+    <input type="submit" value="Add Player">
+  </form>
 </template>
