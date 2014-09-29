@@ -56,8 +56,12 @@ if (Meteor.isClient) {
       //如果一个template里有多个form，则’submit form＃idGoesHere‘:function(){        
       
     }
-  })
-
+  });
 }
-
-
+/*if(Meteor.isServer){
+  console.log(PlayersList.find().fetch());
+  Meteor.subscribe('thePlayers',function(){
+    var currentUserId = this.userId;
+    return PlayersList.find({createdBy:currentUserId});
+  });
+}*/
