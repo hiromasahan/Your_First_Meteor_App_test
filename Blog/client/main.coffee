@@ -1,9 +1,9 @@
 Meteor.subscribe"posts"
 
-BlogRouter=Backbone.Router.extend
+BlogRouter = Backbone.Router.extend
   routes:{
     "":"main",
-    "new":"newPost"
+    "new" : "newPost"
     ":slug":"post"
   },
   main:()->Session.set"currentView","posts"

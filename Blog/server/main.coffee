@@ -1,4 +1,4 @@
-Meteor.publish"posts", () ->Posts.find()
+Meteor.publish "posts", () -> Posts.find()
 
 Meteor.methods
   post:(content, title, slug)->
